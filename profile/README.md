@@ -1,6 +1,6 @@
 ## Hi there 👋
-E2B for Startups
-[![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff8800?style=for-the-badge)](https://e2b.dev/startups)
+<div>E2B for Startups</div>
+<div>[![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff8800?style=for-the-badge)](https://e2b.dev/startups)</div>
 <!--
 
 **Here are some ideas to get you started:**
